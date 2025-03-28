@@ -19,9 +19,6 @@
 - Email: [your-email@example.com](mailto:your-email@example.com)
 - LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
 
-## 🗣 Pronouns:
-- He/Him
-
 ## ⚡ Fun Fact:
 - I love diving into SQL optimization challenges and exploring new technologies to improve database performance. When not coding, I enjoy playing basketball and staying active.
 
