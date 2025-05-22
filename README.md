@@ -17,7 +17,7 @@
 
 ## How to Reach Me:
 - Email: [your-email@example.com](mailto:davidafful631@gmail.com)
-- LinkedIn: [your-linkedin-profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/david-afful-31963b330/))
+- LinkedIn: [your-linkedin-profile]([https://www.linkedin.com/in/david-afful-31963b330/])
 
 ##  Fun Fact:
 - I love diving into SQL optimization challenges and exploring new technologies to improve database performance. When not coding, I enjoy playing basketball and making beats.
