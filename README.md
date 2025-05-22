@@ -16,8 +16,8 @@
 - Backend development and API design.
 
 ## How to Reach Me:
-- Email: [(mailto:davidafful631@gmail.com)]
-- LinkedIn: [your-linkedin-profile]([https://www.linkedin.com/in/david-afful-31963b330/])
+- Email: mailto:davidafful631@gmail.com
+- LinkedIn: https://www.linkedin.com/in/david-afful-31963b330/
 
 ##  Fun Fact:
 - I love diving into SQL optimization challenges and exploring new technologies to improve database performance. When not coding, I enjoy playing basketball and making beats.
