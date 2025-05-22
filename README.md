@@ -16,7 +16,7 @@
 - Backend development and API design.
 
 ## How to Reach Me:
-- Email: mailto:davidafful631@gmail.com
+- Email: davidafful631@gmail.com
 - LinkedIn: https://www.linkedin.com/in/david-afful-31963b330/
 
 ##  Fun Fact:
