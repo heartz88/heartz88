@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @heartz88
+# 👋 Hi, I’m David (DJ) Afful
 
 ## Professional Interests:
 - **Web Development**: Passionate about building scalable and secure web applications using modern frameworks, especially Django.
